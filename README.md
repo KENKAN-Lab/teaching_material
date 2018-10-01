@@ -1,5 +1,13 @@
 ﻿# 目次
 
+## q値・m値計算関係
+
+### [q値計算シート](https://github.com/KENKAN-Lab/teaching_material/blob/master/excel/q_value_calculation_sheet/q%E5%80%A4%E8%A8%88%E7%AE%97%E3%82%B7%E3%83%BC%E3%83%88.xlsx)
+q値、m値を計算するシートです。
+
+### [U値計算シート](https://github.com/KENKAN-Lab/teaching_material/blob/master/excel/U_value_calculation_sheet/16.01.%E9%83%A8%E4%BD%8DU%E5%80%A4%E8%A8%88%E7%AE%97%E3%82%B7%E3%83%BC%E3%83%88_Ver.1.pdf)
+U値を計算するシートです。熱橋の計算もここで行います。
+
 ## 防露関係
 
 ### [温度と水蒸気の計算シート](https://github.com/KENKAN-Lab/teaching_material/blob/master/excel/%E6%B8%A9%E5%BA%A6%E3%81%A8%E6%B0%B4%E8%92%B8%E6%B0%97%EF%BC%88%E5%8B%89%E5%BC%B7%E4%BC%9A%E7%94%A8%EF%BC%89.xlsx)
